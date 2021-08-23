@@ -1,0 +1,4 @@
+InquirerPy
+requests
+pyDes
+wget

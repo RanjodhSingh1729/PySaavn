@@ -1,0 +1,16 @@
+LICENCE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/pysaavn/__init__.py
+src/pysaavn/api.py
+src/pysaavn/cli.py
+src/pysaavn/helpers.py
+src/pysaavn/wrappers.py
+src/pysaavn.egg-info/PKG-INFO
+src/pysaavn.egg-info/SOURCES.txt
+src/pysaavn.egg-info/dependency_links.txt
+src/pysaavn.egg-info/entry_points.txt
+src/pysaavn.egg-info/requires.txt
+src/pysaavn.egg-info/top_level.txt

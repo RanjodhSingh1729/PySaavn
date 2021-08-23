@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: pysaavn
+Version: 0.0.2
+Summary: Download Songs from jiosaavn.com
+Home-page: https://github.com/RanjodhSingh1729/PySaavn
+Author: Ranjodh Singh
+Author-email: ranjodhsingh1729@gmail.com
+License: UNKNOWN
+Project-URL: Source Code, https://github.com/RanjodhSingh1729/PySaavn
+Project-URL: Issue Tracker, https://github.com/RanjodhSingh1729/PySaavn/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
+# PySaavn
+
+### Download Songs from jiosaavn.com
+
+* Features
+  * Download Multiple Songs, Albums, Playlists and even Artists at the same time.
+
+

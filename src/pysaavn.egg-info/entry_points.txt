@@ -1,0 +1,3 @@
+[console_scripts]
+pysaavn = pysaavn.cli:main
+
